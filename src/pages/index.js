@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'SuperCo Packaging'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'All Products / 2023'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
